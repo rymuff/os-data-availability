@@ -25,10 +25,14 @@ Both of repositories are Android Studio project. Therefore, you can simply build
 
 ### Execution time
 
+We used 5,000 PINs (or patterns) randomly selected from real datasets of PINs (or patterns), and measured the average execution time (i.e., the average time taken to identify the lock mechanism and crack the password) of the backdoor application after it has been triggered by a push message.
+
 * [pattern_sample5000.txt](https://github.com/rymuff/os-data-availability/blob/master/Execution%20time/pattern_sample5000.txt): Pattern samples randomly selected from real datasets
 * [pin_sample5000.txt](https://github.com/rymuff/os-data-availability/blob/master/Execution%20time/pin_sample5000.txt): Pin samples randomly selected from real datasets
 * [results.txt](https://github.com/rymuff/os-data-availability/blob/master/Execution%20time/results.txt): Results of execution time
 
 ### Power consumption
+
+[PowerTutor](http://ziyang.eecs.umich.edu/projects/powertutor/) was used to measure the power consumption of the backdoor. To see the impact of the password cracking process only, we compared the power consumption of the backdoor in two different cases; *Changed* and *Not changed*. In *Changed* case, the password is changed for every execution, and thus the password cracking process in the backdoor application is always executed. On the other hand, in *Not changed* case, the password is never changed, and so the only thing the backdoor application does is to show up a notification of the previously cracked password without performing the password cracking process.
 
 * [Power consumption.txt](https://github.com/rymuff/os-data-availability/blob/master/Power%20consumption.txt): Results of power consumption
