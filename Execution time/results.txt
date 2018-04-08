@@ -1,0 +1,17 @@
+4-digit PIN	Dictionary Attack		Brute-force Attack	
+Time	Number of Cracked	Ratio	Number of Cracked	Ratio
+<1	2634	52.68%	530	10.60%
+<2	1110	22.20%	2364	47.28%
+<3	544	10.88%	655	13.10%
+<4	379	7.58%	637	12.74%
+<5	269	5.38%	528	10.56%
+5<=	64	1.28%	286	5.72%
+				
+Lock patterns	Dictionary Attack		Brute-force Attack	
+<	Number of Cracked	Ratio	Number of Cracked	Ratio
+<1	4267	85.34%	2205	44.10%
+<2	421	8.42%	913	18.26%
+<3	123	2.46%	327	6.54%
+<4	66	1.32%	105	2.10%
+<5	37	0.74%	280	5.60%
+5<=	86	1.72%	1170	23.40%
