@@ -17,7 +17,7 @@ Both of repositories are Android Studio project. Therefore, you can simply build
 
 * [VirusTotal](https://goo.gl/5vOeuG)
 
-#### SandDroid Results
+#### SandDroid
 
 * [com.kweisa.backdoor.pdf](https://github.com/rymuff/os-data-availability/blob/master/SandDroid/com.kweisa.backdoor.pdf): Analysis report of our Backdoor app
 * [results.txt](https://github.com/rymuff/os-data-availability/blob/master/SandDroid/results.txt): Score results of normal app (from Google) and malicious app
