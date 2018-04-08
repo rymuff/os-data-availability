@@ -25,8 +25,10 @@ Both of repositories are Android Studio project. Therefore, you can simply build
 
 ### Execution time
 
-* Execution time: TBU
+* [pattern_sample5000.txt](https://github.com/rymuff/os-data-availability/blob/master/Execution%20time/pattern_sample5000.txt): Pattern samples randomly selected from real datasets
+* [pin_sample5000.txt](https://github.com/rymuff/os-data-availability/blob/master/Execution%20time/pin_sample5000.txt): Pin samples randomly selected from real datasets
+* [results.txt](https://github.com/rymuff/os-data-availability/blob/master/Execution%20time/results.txt): Results of execution time
 
 ### Power consumption
 
-* Power consumption: TBU
+* [Power consumption.txt](https://github.com/rymuff/os-data-availability/blob/master/Power%20consumption.txt): Results of power consumption
