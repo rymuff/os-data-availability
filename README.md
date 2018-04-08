@@ -11,7 +11,22 @@ Both of repositories are Android Studio project. Therefore, you can simply build
 
 ## Evaluation Data
 
+###  Stealthiness of push notification-based malware
+
+#### VirusTotal
+
 * [VirusTotal](https://goo.gl/5vOeuG)
-* SandDroid: TBU
+
+#### SandDroid Results
+
+* [com.kweisa.backdoor.pdf](https://github.com/rymuff/os-data-availability/blob/master/SandDroid/com.kweisa.backdoor.pdf): Analysis report of our Backdoor app
+* [results.txt](https://github.com/rymuff/os-data-availability/blob/master/SandDroid/results.txt): Score results of normal app (from Google) and malicious app
+* [malware results](https://github.com/rymuff/os-data-availability/tree/master/SandDroid/malware%20results): Analysis reports of malicious apps
+
+### Execution time
+
 * Execution time: TBU
-* Power consumption measurements:: TBU
+
+### Power consumption
+
+* Power consumption: TBU
