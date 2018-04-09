@@ -27,8 +27,6 @@ Both of repositories are Android Studio project. Therefore, you can simply build
 
 We used 5,000 PINs (or patterns) randomly selected from real datasets of PINs (or patterns), and measured the average execution time (i.e., the average time taken to identify the lock mechanism and crack the password) of the backdoor application after it has been triggered by a push message.
 
-* [pattern_sample5000.txt](https://github.com/rymuff/os-data-availability/blob/master/Execution%20time/pattern_sample5000.txt): Pattern samples randomly selected from real datasets
-* [pin_sample5000.txt](https://github.com/rymuff/os-data-availability/blob/master/Execution%20time/pin_sample5000.txt): Pin samples randomly selected from real datasets
 * [results.txt](https://github.com/rymuff/os-data-availability/blob/master/Execution%20time/results.txt): Results of execution time
 
 ### Power consumption
